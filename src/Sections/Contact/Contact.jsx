@@ -11,12 +11,34 @@ const Contact = () => {
             </div>
 
             <h1 className="contact_heading_2">Get in touch</h1>
-            <p className="contact_desc">Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-            Pariatur illo voluptates quibusdam totam inventore assumenda 
-            beatae blanditiis, voluptas dicta, ipsum voluptate quo. Illum 
-            consequuntur laudantium quidem quia laboriosam! Dolorum consequatur
-             culpa possimus? Id,
-             hic repellendus modi similique quos voluptates pariatur.</p>
+            <p className="contact_desc">We would love to hear from you! If you have any questions or comments,
+             please don't hesitate to reach out to us.
+             Email:
+             <p className="contact_desc">
+
+            For general inquiries, please email us at ankesh.pandey8@gmail.com. We will do our best to respond to your email within 24-48 hours.
+
+             </p>
+
+             <p className="contact_desc">
+
+            Phone:
+
+            If you prefer to speak with someone over the phone, 
+            you can reach us at 790333-2869. Our phone support hours are Monday-Friday from 9:00am to 5:00pm IST.
+             </p>
+             <p className="contact_desc">
+
+            Mailing Address:
+
+            Social Media:
+
+            You can also connect with us on social media. Find us on Facebook, Twitter, and Instagram.
+
+            We look forward to hearing from you!
+             </p>
+
+            </p>
              <a href="mailto:ankesh.pandey1005@gmail.com">
                 <button className="contact_btn">Say Hello</button>
              </a>

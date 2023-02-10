@@ -20,7 +20,9 @@ const About = () => {
             designing, developing, and maintaining websites and web
             applications. I have a strong understanding of HTML, CSS,
             JavaScript, and various web development frameworks such as React,
-            Angular, NodeJs, MongoDB, MySQL . I have experience in implementing
+            Angular, NodeJs, MongoDB, MySQL.
+            </p>
+            <p className="about_desc"> I have experience in implementing
             responsive design, cross-browser compatibility, and security
             measures to ensure the smooth functioning and protection of
             websites. My excellent problem-solving skills, ability to work

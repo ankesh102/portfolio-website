@@ -6,11 +6,11 @@ const Home = () => {
     <section id='home' className='home_section'>
 
     <p className='home_greet'>
-        Hi, My name is 
+        Hi, My Name is 
     </p>
 
     <h1 className='home_heading_1'>
-        Ankesh.
+        Ankesh k Pandey
     </h1>
 
     <h1 className='home_heading_2'>
@@ -23,7 +23,7 @@ const Home = () => {
       and I'm working day by day on improving my skills. I'm highly 
       interested in learning Software Development tools 
     and technique as well as Full Stack Web Development.
-    
+
         
     </p>
 

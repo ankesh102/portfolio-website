@@ -9,16 +9,16 @@ const ContactBar = () => {
   return (
     <div className="contact_bar_wrapper">
         <div className="contact_bar">
-            <a href="http://" target="_blank"  className="contact_bar_icon">
+            <a href="https://www.linkedin.com/in/ankesh-pandey8/" target="_blank"  className="contact_bar_icon">
             <LinkedInIcon />
             </a>
-            <a href="http://" target="_blank"  className="contact_bar_icon">
+            <a href="https://github.com/ankesh102" target="_blank"  className="contact_bar_icon">
             <GitHubIcon />
             </a>
-            <a href="http://" target="_blank"  className="contact_bar_icon">
+            <a href="https://www.instagram.com/itsankesh20/" target="_blank"  className="contact_bar_icon">
             <InstagramIcon />
             </a>
-            <a href="http://" target="_blank"  className="contact_bar_icon">
+            <a href="https://twitter.com/Ankeshkumarpan3" target="_blank"  className="contact_bar_icon">
             <TwitterIcon />
             </a>
             <div className="contact_bar_line"></div>
